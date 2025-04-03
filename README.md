@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Fayaad Williams from Cape Town, South Africa<br><br>- 🔭 I’m studying in Varsity College in IT and Computer Sciences in Application Development<br>- 📚 I'm currently learning Java, Python and C#<br>- ⚡ In my free time I eat.</p>
+<p align="left">I'm Fayaad Williams from Cape Town, South Africa<br><br>- 🔭 I’m studying in <b> Varsity College </b> in <b>IT and Computer Sciences in Application Development</b><br>- 📚 I'm currently learning Java, Python and C#<br>- ⚡ In my free time I eat.</p>
 
 ###
 
